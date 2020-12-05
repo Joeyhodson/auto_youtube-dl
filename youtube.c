@@ -5,7 +5,6 @@ Purpose: To download multiple youtube videos
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 
 char** readLinks(FILE* inFile, int numLinks) {
